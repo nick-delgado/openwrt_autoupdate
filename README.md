@@ -20,6 +20,7 @@ git clone git://github.com/nick-delgado/openwrt_autoupdate.git
 The first thing to do after cloning the repo from within the router is to make the setup script executable:
 
 ```
+cd openwrt_autoupdate/
 chmod u+x init_setup.sh
 ```
 
