@@ -2,7 +2,7 @@
 OpenWrt Auto Update script
 
 This project aims to have a simple script that will automatically update the packages on a OpenWrt/LEDE router.
-The code is derived from Christopher Smart's blog post (https://blog.christophersmart.com/2018/03/18/auto-apply-latest-package-updates-on-openwrt-lede-project/)
+The code is based on Christopher Smart's blog post (https://blog.christophersmart.com/2018/03/18/auto-apply-latest-package-updates-on-openwrt-lede-project/)
 
 ## Requirements
 You need to have **ssh** access to your OpenWrt router and the **git** package installed. 
